@@ -1,7 +1,9 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-
+  router: {
+    base: '/member-directory'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'EMRGMemberDirectory',
@@ -15,12 +17,14 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      // { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css', lang: 'css' },
     ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [
+  css: [{ src: '~/assets/style.scss', lang: 'sass' },
+
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -33,13 +37,14 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/eslint
-    '@nuxtjs/eslint-module'
+    // '@nuxtjs/eslint-module'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    'nuxt-leaflet'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

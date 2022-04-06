@@ -1,0 +1,420 @@
+[
+    {
+        "Member": "Pure Restoration",
+        "Title": "Calgary",
+        "Logo": "logos/Pure.jpg",
+        "Address": "6010 12th Street SE<br>Calgary, Alberta<br>T2H 2X2",
+        "Province": "Alberta",
+        "Phone1": "403-984-5300",
+        "Phone2": "",
+        "Email": "claims@purerestoration.ca",
+        "latlong": [
+            50.999172,
+            -114.034426
+        ],
+        "id": 0,
+        "selected": false,
+        "visible": true,
+        "url": "https://www.purerestoration.ca/",
+        "membership": "full"
+    },
+    {
+        "Member": "Canstar Restorations",
+        "Title": "Calgary",
+        "Logo": "logos/Canstar Restorations.jpg",
+        "Address": "104 - 11127 15th Street NE<br> Calgary, Alberta<br>T3K 2M4",
+        "Province": "Alberta",
+        "Phone1": "844-806-4612",
+        "Phone2": "",
+        "Email": "info@canstarrestorations.com",
+        "latlong": [
+            51.152743124497725,
+            -114.0257456884187
+        ],
+        "id": 1,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.canstarrestorations.com/",
+        "membership": "associate"
+    },
+    {
+        "Member": "Canstar Restorations",
+        "Title": "Edmonton",
+        "Logo": "logos/Canstar Restorations.jpg",
+        "Address": "6316 Roper Road<br> Edmonton, Alberta<br>  T6B 3P9",
+        "Province": "Alberta",
+        "Phone1": "844-806-4612",
+        "Phone2": "",
+        "Email": "info@canstarrestorations.com",
+        "latlong": [
+            53.495662433830965,
+            -113.42883727222703
+        ],
+        "id": 2,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.canstarrestorations.com/",
+        "membership": "associate"
+    },
+    {
+        "Member": "Canstar Restorations",
+        "Title": "Abbotsford",
+        "Logo": "logos/Canstar Restorations.jpg",
+        "Address": "110 - 2582 Mt. Lehman Road <br> Abbotsford, British Columbia  <br>V4X 2N3",
+        "Province": "British Columbia",
+        "Phone1": "844-806-4612",
+        "Phone2": "",
+        "Email": "info@canstarrestorations.com",
+        "latlong": [
+            49.04906063828598,
+            -122.38065760124309
+        ],
+        "id": 3,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.canstarrestorations.com/",
+        "membership": "associate"
+    },
+    {
+        "Member": "Canstar Restorations",
+        "Title": "Coquitlam",
+        "Logo": "logos/Canstar Restorations.jpg",
+        "Address": "78 Fawcett Road <br> Coquitlam, British Columbia  <br> V3K 6V5",
+        "Province": "British Columbia",
+        "Phone1": "844-806-4612",
+        "Phone2": "",
+        "Email": "info@canstarrestorations.com",
+        "latlong": [
+            49.227976737546996,
+            -122.83499583007473
+        ],
+        "id": 4,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.canstarrestorations.com/",
+        "membership": "associate"
+    },
+    {
+        "Member": "ABK Restoration Services",
+        "Title": "Kamloops",
+        "Logo": "logos/ABK.jpg",
+        "Address": "301 - 1450 Pearson Place<br>Kamloops, British Columbia<br>V1S 1J9",
+        "Province": "British Columbia",
+        "Phone1": "250-374-4030",
+        "Phone2": "800-463-5663",
+        "Email": "claims@myabk.com",
+        "latlong": [
+            50.650026,
+            -120.378109
+        ],
+        "id": 5,
+        "selected": false,
+        "visible": true,
+        "url": "https://www.myabk.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "ABK Restoration Services",
+        "Title": "Kelowna",
+        "Logo": "logos/ABK.jpg",
+        "Address": "12 - 830 McCurdy Place<br>Kelowna, British Columbia<br>V1X 8C8",
+        "Province": "British Columbia",
+        "Phone1": "250-860-6262",
+        "Phone2": "800-463-5663",
+        "Email": "claims@myabk.com",
+        "latlong": [
+            49.900185,
+            -119.413653
+        ],
+        "id": 6,
+        "selected": false,
+        "visible": true,
+        "url": "https://www.myabk.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "ABK Restoration Services",
+        "Title": "Penticton",
+        "Logo": "logos/ABK.jpg",
+        "Address": "103 - 197 Warren Avenue E<br>Penticton, British Columbia<br>V2A 8N8",
+        "Province": "British Columbia",
+        "Phone1": "250-493-6623",
+        "Phone2": "800-463-5663",
+        "Email": "claims@myabk.com",
+        "latlong": [
+            49.475971,
+            -119.578185
+        ],
+        "id": 7,
+        "selected": false,
+        "visible": true,
+        "url": "https://www.myabk.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "Canstar Restorations",
+        "Title": "Surrey",
+        "Logo": "logos/Canstar Restorations.jpg",
+        "Address": "9377 193rd Street <br> Surrey, British Columbia  <br> V4N 4E7",
+        "Province": "British Columbia",
+        "Phone1": "844-806-4612",
+        "Phone2": "",
+        "Email": "info@canstarrestorations.com",
+        "latlong": [
+            49.17291489359874,
+            -122.68867278166657
+        ],
+        "id": 8,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.canstarrestorations.com/",
+        "membership": "associate"
+    },
+    {
+        "Member": "Premium Restoration",
+        "Title": "Vancouver",
+        "Logo": "logos/Premium.jpg",
+        "Address": "212 - 6901 72nd Street<br>Delta, British Columbia<br>V4G 0A2",
+        "Province": "British Columbia",
+        "Phone1": "604-943-7673",
+        "Phone2": "",
+        "Email": "fabio@premiumrestoration.com",
+        "latlong": [
+            49.128748,
+            -123.024279
+        ],
+        "id": 9,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.premiumrestoration.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "Canstar Restorations",
+        "Title": "Vancouver",
+        "Logo": "logos/Canstar Restorations.jpg",
+        "Address": "103 - 310 East Kent Avenue S <br> Vancouver, British Columbia  <br> V5X 4N6",
+        "Province": "British Columbia",
+        "Phone1": "844-806-4612",
+        "Phone2": "",
+        "Email": "info@canstarrestorations.com",
+        "latlong": [
+            49.20704197922177,
+            -123.09987535891028
+        ],
+        "id": 10,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.canstarrestorations.com/",
+        "membership": "associate"
+    },
+    {
+        "Member": "Canstar Restorations",
+        "Title": "Whistler",
+        "Logo": "logos/Canstar Restorations.jpg",
+        "Address": "103 - 1002 Lynham Road <br> Whistler, British Columbia  <br> V8E 0K4",
+        "Province": "British Columbia",
+        "Phone1": "844-806-4612",
+        "Phone2": "",
+        "Email": "info@canstarrestorations.com",
+        "latlong": [
+            50.087926263068596,
+            -123.03588657238467
+        ],
+        "id": 11,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.canstarrestorations.com/",
+        "membership": "associate"
+    },
+    {
+        "Member": "Paul's Restorations",
+        "Title": "Barrie",
+        "Logo": "logos/Pauls.jpg",
+        "Address": "1 - 710 Bayview Drive<br>Barrie, Ontario<br>L4N 9A6",
+        "Province": "Ontario",
+        "Phone1": "800-363-7285",
+        "Phone2": "",
+        "Email": "feedback@paulsrestorations.com",
+        "latlong": [
+            44.329115,
+            -79.677834
+        ],
+        "id": 15,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.paulsrestorations.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "Paul's Restorations",
+        "Title": "BrantfoRoad",
+        "Logo": "logos/Pauls.jpg",
+        "Address": "111 Adams Boulevard<br>Brantford, Ontario<br>N3S 7V8",
+        "Province": "Ontario",
+        "Phone1": "800-363-7285",
+        "Phone2": "",
+        "Email": "feedback@paulsrestorations.com",
+        "latlong": [
+            43.160641,
+            -80.223426
+        ],
+        "id": 16,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.paulsrestorations.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "Paul's Restorations",
+        "Title": "Burlington",
+        "Logo": "logos/Pauls.jpg",
+        "Address": "945 Gateway Drive <br> Burlington, Ontario<br>L7L 5K5",
+        "Province": "Ontario",
+        "Phone1": "800-363-7285",
+        "Phone2": "",
+        "Email": "feedback@paulsrestorations.com",
+        "latlong": [
+            43.388905,
+            -79.759783
+        ],
+        "id": 17,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.paulsrestorations.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "AllPro Restoration",
+        "Title": "Caledon",
+        "Logo": "logos/allpro.jpg",
+        "Address": "21 - 365 Healey Road <br> Bolton, Ontario  <br> L7E 5C1",
+        "Province": "Ontario",
+        "Phone1": "844-806-4612",
+        "Phone2": "",
+        "Email": "service@allprorestoration.ca",
+        "latlong": [
+            43.86103121484785,
+            -79.73227939718886
+        ],
+        "id": 12,
+        "selected": false,
+        "visible": true,
+        "url": "http://allprorestoration.ca/",
+        "membership": "associate"
+    },
+    {
+        "Member": "Paul's Restorations",
+        "Title": "Hamilton",
+        "Logo": "logos/Pauls.jpg",
+        "Address": "1640 Upper Ottawa Street<br>Hamilton, Ontario<br>L8W 3P2",
+        "Province": "Ontario",
+        "Phone1": "800-363-7285",
+        "Phone2": "",
+        "Email": "feedback@paulsrestorations.com",
+        "latlong": [
+            43.189048,
+            -79.845566
+        ],
+        "id": 18,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.paulsrestorations.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "Woodhouse Restorations",
+        "Title": "Kitchener-Waterloo",
+        "Logo": "logos/Woodhouse.jpg",
+        "Address": "207 Madison Avenue S<br>Kitchener, Ontario<br>N2G 3M7",
+        "Province": "Ontario",
+        "Phone1": "888-647-3334",
+        "Email": "emergency@woodhouse.ca",
+        "Phone2": "",
+        "latlong": [
+            43.440734,
+            -80.486638
+        ],
+        "id": 21,
+        "selected": false,
+        "visible": true,
+        "url": "https://www.woodhouse.ca/disaster-restoration",
+        "membership": "full"
+    },
+    {
+        "Member": "Paul's Restorations",
+        "Logo": "logos/Pauls.jpg",
+        "Title": "Niagara Falls",
+        "Address": "6090 Don Murie Street<br>Niagara Falls, Ontario<br>L2E 6X8",
+        "Province": "Ontario",
+        "Phone1": "800-363-7285",
+        "Phone2": "",
+        "Email": "feedback@paulsrestorations.com",
+        "latlong": [
+            43.050607,
+            -79.093737
+        ],
+        "id": 19,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.paulsrestorations.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "DryIt",
+        "Logo": "logos/DRYIT1.jpg",
+        "Title": "Ottawa",
+        "Address": "2540 Del Zotto Avenue <br>Gloucester, Ontario <br>K1T 3V7",
+        "Province": "Ontario",
+        "Phone1": "800-363-7285",
+        "Phone2": "",
+        "Email": "info@dryit.ca",
+        "latlong": [
+            43.050607,
+            -79.093737
+        ],
+        "id": 20,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.dryit.ca/",
+        "membership": "full"
+    },
+    {
+        "Member": "Complete Restoration Services",
+        "Title": "Toronto",
+        "Logo": "logos/Complete.jpg",
+        "Address": "1 - 1915 Clements Road <br> Pickering, Ontario <br>L1W 3V1",
+        "Province": "Ontario",
+        "Phone1": "800-363-0006",
+        "Phone2": "",
+        "Email": "claims@completerestorationservices.ca",
+        "latlong": [
+            43.82683257226925,
+            -79.05348388485842
+        ],
+        "id": 14,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.completerestorationservices.com/",
+        "membership": "full"
+    },
+    {
+        "Member": "Alpine Construction",
+        "Title": "Windsor",
+        "Logo": "logos/Alpine.jpg",
+        "Address": "2645 North Talbot Road<br>Tecumseh, Ontario<br>N0R 1L0",
+        "Province": "Ontario",
+        "Phone1": "519-737-0500",
+        "Phone2": "",
+        "Email": "claims@alpineconstruction.ca",
+        "latlong": [
+            42.238871,
+            -82.963746
+        ],
+        "id": 13,
+        "selected": false,
+        "visible": true,
+        "url": "http://www.alpineconstruction.ca",
+        "membership": "full"
+    }
+]

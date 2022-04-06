@@ -1,0 +1,76 @@
+$section-height:max(500px, 25vw);
+// BS sass files
+@import "../node_modules/bootstrap/scss/_functions.scss";
+@import "../node_modules/bootstrap/scss/_variables.scss";
+
+// Include any default variable overrides here (though functions won't be available)
+$enable-negative-margins: true;
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     #B11F29,
+  "light":      $light,
+  "dark":       $dark,
+  "light-grey": $gray-200,
+  );
+
+
+$green-hover-border: rgba($green, 0.5);
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+a{
+  color: $danger;
+}
+a:hover{
+  color: #691419;
+}
+#member-list {
+    height: calc(100% - 60px);
+    overflow-y: auto;
+    padding-top: 3px;
+  }
+  
+  #member-list .card {
+    border-radius: 0;
+    /* border: none; */
+    box-shadow: 0 0 10px -5px rgba(0,0,0,0.125);
+  }
+  #member-list .card:hover,
+  #member-list .card.selected {
+    border-color: $danger;
+    outline: 1px solid $danger;
+    background: rgba(0,0,0,0.0125);
+    cursor: pointer;
+    box-shadow: 0 0 20px -5px rgba(0,0,0,0.25);
+
+  }
+
+  #member-list .card img.membership{
+    max-width: 60px;
+  }
+
+  .leaflet-marker-icon{
+      border: 1px solid transparent;
+      filter: saturate(1);
+      transition: all .12s cubic-bezier(0.165, 0.84, 0.44, 1);
+      
+    }
+.leaflet-marker-icon:hover,
+.leaflet-marker-icon.selected{
+    filter:saturate(.018);
+    border-radius: 50%;
+    z-index: 1000 !important;
+    box-shadow: 0 0 20px -5px rgba(0,0,0,0.25);
+    height: 72px !important;
+    width: 72px !important;
+
+  }
+
+  img.memberLogo{
+    max-height: 120px;
+    width: auto;
+    object-fit: contain;
+  }
